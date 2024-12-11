@@ -8,7 +8,7 @@ excerpt: 'The emerging demand for a variety of novel Location-based Services (LB
 date: 2024-02-13
 venue: 'TESEA'
 Nasir, M., Esguerra, K., Faye, I., Tang, T. B., Yahya, M., Tumian, A., & Ho, E. T. W. (2024).
-citation: 'Nasir, Muneeb. (2024). &quot; HyTra: Hyperclass Transformer for WiFi Fingerprinting-based Indoor Localization.&quot; Transactions on Energy Systems and Engineering Applications, vol 5(1), pp 1–24.'
+citation: 'Nasir, Muneeb. (2024). &quot; "HyTra: Hyperclass Transformer for WiFi Fingerprinting-based Indoor Localization." &quot; Transactions on Energy Systems and Engineering Applications, vol 5(1), pp 1–24.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
