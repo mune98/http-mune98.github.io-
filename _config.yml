@@ -21,7 +21,7 @@ repository               : "mmune98/mune98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "new_profile.png"
   name             : "Muneeb Nasir"
   pronouns         : # example: "she/her"  
   bio              : "Deep Learning Enthusiast"
@@ -99,7 +99,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
