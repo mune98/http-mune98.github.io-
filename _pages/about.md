@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 This page is currently under construction...
-![Under Construction](/images/under_construction.jpeg){: width="300px"}
+![Under Construction](/images/under_construction.jpg){: width="300px"}
 
     ...do check out the CV and Publication sections. 
